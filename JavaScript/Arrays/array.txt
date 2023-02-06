@@ -7,4 +7,6 @@ console.log(simple[0]);
 console.log(simple[1]);
 console.log(simple[2]);
 
+Why We need to use array ?
+if we have a list of items and want to add in single variable then array helpful.
 
