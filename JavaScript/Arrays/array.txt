@@ -1,0 +1,10 @@
+1. Array is a special variable that contain more than on value
+Simple Syntex of array :
+
+var Simple = ["simple1","simple2","simple3"];
+console.log(Simple);
+console.log(simple[0]);
+console.log(simple[1]);
+console.log(simple[2]);
+
+
